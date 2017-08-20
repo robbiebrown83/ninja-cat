@@ -1,5 +1,6 @@
 import random, shelve
 '''
+Level Build: 0.0
 Levels are 44c by 24r space. 1056 blocks.
 2 rows are done (ceiling, floor). 968 blocks.
 Left/right walls are done for other 22 rows. 924 potential blocks for platforms/enemies/other things.
