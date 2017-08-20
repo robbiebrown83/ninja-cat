@@ -1,5 +1,5 @@
 '''
-Ninja Cat, 0.1
+Ninja Cat, 0.1a
 
 Revolutionary Software, Robbie Sidell III
 
