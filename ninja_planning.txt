@@ -1,0 +1,12 @@
+NINJA CAT:
+
+version 0.1:
+
+Objectives: Reach exit. Don't lose all your lives. (optional: Destroy enemies).
+
+Bug Fix/Implentation:
+    Need to make sword persist for some time -- Attack (Again flag = False, cooldown for again flag.)
+
+version 0.2:
+
+Adds:	Treasure box (points), Ranged Enemy, Ranged Attack
